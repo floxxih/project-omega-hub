@@ -47,3 +47,4 @@ coverage/
 node_modules/
 .env
 dist/
+temp_dir_1/
