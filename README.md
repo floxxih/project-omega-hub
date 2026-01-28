@@ -117,3 +117,6 @@ MIT
 - [Stacks Explorer](https://explorer.hiro.so)
 - [Clarinet Documentation](https://docs.hiro.so/clarinet)
 - [Stacks.js Documentation](https://docs.hiro.so/stacks.js)
+
+## Status
+Active development.
