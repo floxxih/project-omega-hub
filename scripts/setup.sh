@@ -2,3 +2,4 @@
 echo 'Running check 1...'
 echo 'Running check 2...'
 echo 'Running check 3...'
+echo 'Running check 4...'
